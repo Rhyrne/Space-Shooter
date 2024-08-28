@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\space-shooter\\assets\\scripts\\controller\\lasercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\space-shooter\\assets\\scripts\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\destroybycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\destroybycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\lasercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\lasercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\firecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\firecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\destroybytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\destroybytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\destroybyboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\destroybyboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\asteroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\asteroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9C63128-57AC-6F72-C9BB-599EE050EED8}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Space-Shooter\\assets\\scripts\\controller\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,38 +58,110 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DestroyByTime.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\DestroyByTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\DestroyByTime.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\DestroyByTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\DestroyByTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:31:32.234Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\GameController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\GameController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:03:45.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestroyByContact.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\DestroyByContact.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\DestroyByContact.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\DestroyByContact.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\DestroyByContact.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:45:00.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DestroyByBoundary.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\DestroyByBoundary.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\DestroyByBoundary.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\DestroyByBoundary.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\DestroyByBoundary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:44:33.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsteroidController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\AsteroidController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\AsteroidController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\AsteroidController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\AsteroidController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:15:08.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FireController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\FireController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\FireController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\FireController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\FireController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:35:35.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LaserController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\LaserController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\LaserController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\LaserController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\LaserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T20:02:14.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T20:02:14.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\PlayerController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\PlayerController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAAFAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T18:36:27.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MovementController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\MovementController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\MovementController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Space-Shooter\\Assets\\Scripts\\Controller\\MovementController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\MovementController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T18:36:04.972Z"
             }

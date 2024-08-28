@@ -7,7 +7,8 @@ public class LaserController : MonoBehaviour
 
     Rigidbody physic;
 
-    [SerializeField] private float laserSpeed; 
+    [SerializeField] private float laserSpeed;
+    
 
     void Start()
     {

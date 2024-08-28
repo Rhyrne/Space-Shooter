@@ -55,6 +55,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Controller\AsteroidController.cs" />
+     <Compile Include="Assets\Scripts\Controller\DestroyByBoundary.cs" />
+     <Compile Include="Assets\Scripts\Controller\DestroyByContact.cs" />
+     <Compile Include="Assets\Scripts\Controller\DestroyByTime.cs" />
+     <Compile Include="Assets\Scripts\Controller\FireController.cs" />
+     <Compile Include="Assets\Scripts\Controller\GameController.cs" />
      <Compile Include="Assets\Scripts\Controller\LaserController.cs" />
      <Compile Include="Assets\Scripts\Controller\MovementController.cs" />
      <Compile Include="Assets\Scripts\Controller\PlayerController.cs" />
